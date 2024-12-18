@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="/profile/banner.png" alt="BoomZO Banner" width="full">
+</div>
 # 🎉 Welcome to BoomZo Repository! 🎉
 
 Hello and welcome! We're excited to have you here. This repository marks the beginning of our journey, and we are thrilled to have contributors like you join us.
